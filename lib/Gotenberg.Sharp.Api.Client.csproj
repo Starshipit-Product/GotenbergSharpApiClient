@@ -37,6 +37,8 @@
 		<PackageIcon>gotenbergSharpClient-large.PNG</PackageIcon>
 		<RepositoryUrl>https://github.com/ChangemakerStudios/GotenbergSharpApiClient</RepositoryUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<!-- to avoid conflicting with the original client, add Starshipit suffix -->
+		<PackageId>Gotenberg.Sharp.API.Client.Starshipit</PackageId>
 	</PropertyGroup>
 
 	<PropertyGroup>
